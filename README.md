@@ -1,1 +1,1 @@
-- Hai semuanya
+# Hai semuanya
